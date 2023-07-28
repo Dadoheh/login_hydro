@@ -1,6 +1,6 @@
-# login_h
+#  ReHydro LOGIN Page
 
-A new Flutter project.
+Check out /lib dir
 
 ## Getting Started
 
